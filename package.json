@@ -1,0 +1,19 @@
+{
+  "name": "alura-curso-node",
+  "version": "1.0.0",
+  "description": "Módulo de primeiros passos no curso de Node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
