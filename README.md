@@ -1,8 +1,8 @@
 # Simple API
-API with Node, Nodemon and Mongoose
+API with Node and MongoDB
 
 # Dependencies
-npm install express nodemon mongoose
+npm install nodemon dotenv mongoose
 
 # Script package.json
 Add "start": "nodemon server.js"
