@@ -9,3 +9,6 @@ Add "start": "nodemon server.js"
  
 # Database
 MongoDB
+
+# Course
+https://cursos.alura.com.br/course/nodejs-api-rest-express-mongodb
